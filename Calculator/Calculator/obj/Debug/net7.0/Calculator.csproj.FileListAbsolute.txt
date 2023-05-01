@@ -1,0 +1,15 @@
+C:\Applection\Task\Calculator\Calculator\Calculator\obj\Debug\net7.0\Calculator.csproj.AssemblyReference.cache
+C:\Applection\Task\Calculator\Calculator\Calculator\obj\Debug\net7.0\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Applection\Task\Calculator\Calculator\Calculator\obj\Debug\net7.0\Calculator.AssemblyInfoInputs.cache
+C:\Applection\Task\Calculator\Calculator\Calculator\obj\Debug\net7.0\Calculator.AssemblyInfo.cs
+C:\Applection\Task\Calculator\Calculator\Calculator\obj\Debug\net7.0\Calculator.csproj.CoreCompileInputs.cache
+C:\Applection\Task\Calculator\Calculator\Calculator\bin\Debug\net7.0\Calculator.exe
+C:\Applection\Task\Calculator\Calculator\Calculator\bin\Debug\net7.0\Calculator.deps.json
+C:\Applection\Task\Calculator\Calculator\Calculator\bin\Debug\net7.0\Calculator.runtimeconfig.json
+C:\Applection\Task\Calculator\Calculator\Calculator\bin\Debug\net7.0\Calculator.dll
+C:\Applection\Task\Calculator\Calculator\Calculator\bin\Debug\net7.0\Calculator.pdb
+C:\Applection\Task\Calculator\Calculator\Calculator\obj\Debug\net7.0\Calculator.dll
+C:\Applection\Task\Calculator\Calculator\Calculator\obj\Debug\net7.0\refint\Calculator.dll
+C:\Applection\Task\Calculator\Calculator\Calculator\obj\Debug\net7.0\Calculator.pdb
+C:\Applection\Task\Calculator\Calculator\Calculator\obj\Debug\net7.0\Calculator.genruntimeconfig.cache
+C:\Applection\Task\Calculator\Calculator\Calculator\obj\Debug\net7.0\ref\Calculator.dll
